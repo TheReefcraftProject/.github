@@ -5,6 +5,8 @@ Reefcraft is an **open-source project** focused on creating scientifically groun
 
 This project is a collaborative endeavor open to **scientists**, **artists**, **aquarium hobbyists**, and anyone passionate about the beauty and complexity of coral ecosystems. Together, we aim to push the boundaries of what is possible in simulating coral morphology and reef environments.
 
+A key part of our mission involves building upon existing scientific research, such as the mathematical models described in the [McGill paper on coral polyps](https://bioengineering.hyperbook.mcgill.ca/mathematical-marine-models-of-coral-polyps/). Reproducing these results is one of our near-term goals, as it provides a foundational framework for understanding coral growth dynamics and their environmental interactions.
+
 ---
 
 ## About the Project
